@@ -22,7 +22,7 @@
         <docker.image.prefix>arey</docker.image.prefix>
 
         <!-- Dates -->
-        <jodatime-hibernate.version>1.3</jodatime-hibernate.version>
+        <jodatime-hibernate.version>1.4</jodatime-hibernate.version>
         <jadira-usertype-core.version>5.0.0.GA</jadira-usertype-core.version>
 
         <cobertura.version>2.7</cobertura.version>
@@ -255,7 +255,7 @@
         								</goals>
         							</pluginExecutionFilter>
         							<action>
-        								<ignore></ignore>
+        								<ignore/>
         							</action>
         						</pluginExecution>
         					</pluginExecutions>
